@@ -40,14 +40,14 @@
 
 [Мой чек-лист для статуса заказа и валидация полей формы (вкладки «Задание 2»)](https://docs.google.com/spreadsheets/d/1078FTm2fueUMFbT0OFNV3ZpdVJetjRAjeaDfPyo5JWU/edit?usp=sharing)
 
-
 #### Задание 3: Мобильное приложение Яндекс.Самокат
+
 Спроектируй тест-кейсы и протестируй функциональность, которая выделена жирным шрифтом. Не забудь написать кейсы и на вёрстку по макетам к этой функциональности. [Требования к моб приложению (pdf)](diploma/requirements_mob_app.pdf)
 
 [Мои тест-кейсы (вкладка «Задание 3»)](https://docs.google.com/spreadsheets/d/1078FTm2fueUMFbT0OFNV3ZpdVJetjRAjeaDfPyo5JWU/edit?usp=sharing)
 
-
 #### Задание 4: API приложения Яндекс.Самокат
+
 Разработай чек-лист и протестируй API по требованиям, которые выделены жирным шрифтом. [Требования к бэкенду (pdf)](diploma/requirements_backend.pdf)
 
 [Мой чек-лист API (вкладка «Задание 4»)](https://docs.google.com/spreadsheets/d/1078FTm2fueUMFbT0OFNV3ZpdVJetjRAjeaDfPyo5JWU/edit?usp=sharing)
@@ -56,6 +56,6 @@
 
 ## <a name="certs" />Сертификат
 
-![Сертификат об успешном окончании курса](Timur Arbaev_20232QAB00025.jpg)
+![Сертификат об успешном окончании курса](Timur_Arbaev_20232QAB00025.jpg)
 
 [Наверх](#up)
