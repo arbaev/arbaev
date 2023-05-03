@@ -50,7 +50,7 @@
       web
     </td>
     <td>
-      <img src="https://img.shields.io/badge/tilda-555?style=flat-square&logo=tilda" alt="Tilda" style="vertical-align: text-bottom;">
+      <img src="https://img.shields.io/badge/tilda-333?style=flat-square&logo=conventionalcommits" alt="Tilda" style="vertical-align: text-bottom;">
       <img src="https://img.shields.io/badge/wordpress-333?style=flat-square&logo=wordpress" alt="WordPress" style="vertical-align: text-bottom;">
     </td>
   </tr>
