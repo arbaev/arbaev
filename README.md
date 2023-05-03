@@ -84,10 +84,7 @@
 - [Учебник по CSS проекта Hexlet Basics](https://github.com/hexlet-basics/exercises-css/commits?author=arbaev) - Исправление неточностей
 - [Список тестовых заданий для прокачки от команды Hexlet](https://github.com/Hexlet/ru-test-assignments/commits?author=arbaev) - Актуализация ссылок
 
----
-
 ## History
 
-[Опыт работы](/experience/experience.md)
-
-[Образование](/education/education.md)
+- [Опыт работы](/experience/experience.md)
+- [Образование](/education/education.md)
