@@ -1,10 +1,10 @@
 ## Сейчас
 
-:dart: В поиске работы, связанной с тестированием API или веб-приложений.
+:dart: В поиске проектов и смыслов
 
-[![Linkedin Arbaev profile](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arbaev/)
 [![Telegram Arbaev profile](https://img.shields.io/badge/telegram-0088cc?style=for-the-badge&logo=telegram)](https://t.me/arbaev)
 [![Twitter Arbaev profile](https://img.shields.io/badge/twitter-5dbaec?style=for-the-badge&logo=twitter)](https://twitter.com/timbrk)
+[![Linkedin Arbaev profile](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arbaev/)
 
 ## Технические навыки
 
