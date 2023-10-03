@@ -11,24 +11,12 @@
 <table>
   <tr>
     <td style="text-align: right;">
-      QA
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/postman-333?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman" style="vertical-align: text-bottom;">
-      <img src="https://img.shields.io/badge/charlie-333?style=flat-square&logo=charlie" alt="Charlie" style="vertical-align: text-bottom;">
-      <img src="https://img.shields.io/badge/devtools-333?style=flat-square&logo=devtools" alt="DevTools" style="vertical-align: text-bottom;">
-      <img src="https://img.shields.io/badge/puppeteer-333?style=flat-square&logo=puppeteer" alt="Puppeteer" style="vertical-align: text-bottom;">
-    </td>
-  </tr>
-
-  <tr>
-    <td style="text-align: right;">
       frontend
     </td>
     <td>
-      <img src="https://img.shields.io/badge/javascript-333?style=flat-square&logo=javascript" alt="javascript" style="vertical-align: text-bottom;">
       <img src="https://img.shields.io/badge/vue-333?style=flat-square&logo=vuedotjs" alt="vue" style="vertical-align: text-bottom;">
       <img src="https://img.shields.io/badge/quasar-333?style=flat-square&logo=quasar&logoColor=1976D2" alt="quasar framework" style="vertical-align: text-bottom;">
+      <img src="https://img.shields.io/badge/javascript-333?style=flat-square&logo=javascript" alt="javascript" style="vertical-align: text-bottom;">
     </td>
   </tr>
 
@@ -42,6 +30,18 @@
       <img src="https://img.shields.io/badge/rspec-333?style=flat-square&logo=RuboCop" alt="rSpec" style="vertical-align: text-bottom;">
       <img src="https://img.shields.io/badge/postgreSQL-333?style=flat-square&logo=PostgreSQL" alt="PostgreSQL" style="vertical-align: text-bottom;">
       <img src="https://img.shields.io/badge/git-333?style=flat-square&logo=git" alt="Git" style="vertical-align: text-bottom;">
+    </td>
+  </tr>
+
+  <tr>
+    <td style="text-align: right;">
+      QA
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/postman-333?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman" style="vertical-align: text-bottom;">
+      <img src="https://img.shields.io/badge/charlie-333?style=flat-square&logo=charlie" alt="Charlie" style="vertical-align: text-bottom;">
+      <img src="https://img.shields.io/badge/devtools-333?style=flat-square&logo=devtools" alt="DevTools" style="vertical-align: text-bottom;">
+      <img src="https://img.shields.io/badge/puppeteer-333?style=flat-square&logo=puppeteer" alt="Puppeteer" style="vertical-align: text-bottom;">
     </td>
   </tr>
 
@@ -70,14 +70,14 @@
 
 ## Мои проекты
 
+- [Регионы и города России (github)](https://github.com/arbaev/russia-cities)<br>
+  База данных всех регионов и городов со склонениями названий и другой информацией
 - [UX101 (github)](https://github.com/arbaev/ux101)<br>
   Книга-конспект по курсу Нетологии «Проектирование интерфейсов и UX дизайн»
 - [KinoAfisha (github)](https://github.com/arbaev/kinoafisha)<br>
   Создание киноафиши из 3 фильмов на 1 странице, VueJS + Quasar
 - [FindWords (github)](https://github.com/arbaev/findwords)<br>
   «Найди слова», тест-игра на внимательность для детей на VueJS
-- [Vue-Websites (github)](https://github.com/arbaev/vue-websites)<br>
-  Список коммерческих сайтов, использующих Vue в продакшене
 
 ## Contributing
 
