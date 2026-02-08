@@ -1,15 +1,9 @@
 :dart: В поиске проектов и смыслов
 
-<table>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/vue-f5f5f5?style=for-the-badge&logo=vuedotjs" alt="vue" style="vertical-align: text-bottom;">
-      <img src="https://img.shields.io/badge/typescript-f5f5f5?style=for-the-badge&logo=typescript" alt="typescript" style="vertical-align: text-bottom;">
-      <img src="https://img.shields.io/badge/quasar-f5f5f5?style=for-the-badge&logo=quasar&logoColor=1976D2" alt="quasar framework" style="vertical-align: text-bottom;">
-      <img src="https://img.shields.io/badge/three.js-f5f5f5?style=for-the-badge&logo=three.js&logoColor=grey" alt="three.js" style="vertical-align: text-bottom;">
-    </td>
-  </tr>
-</table>
+![Vue](https://img.shields.io/badge/vue-f5f5f5?style=for-the-badge&logo=vuedotjs)
+![Typescript](https://img.shields.io/badge/typescript-f5f5f5?style=for-the-badge&logo=typescript)
+![Quasar Framework](https://img.shields.io/badge/quasar-f5f5f5?style=for-the-badge&logo=quasar&logoColor=1976D2)
+![Three.js](https://img.shields.io/badge/three.js-f5f5f5?style=for-the-badge&logo=three.js&logoColor=grey)
 
 ## Мои проекты
 
