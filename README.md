@@ -17,3 +17,8 @@
   База данных всех регионов и городов со склонениями названий и другой информацией
 - [UX101](https://github.com/arbaev/ux101)<br>
   Книга-конспект по курсу Нетологии «Проектирование интерфейсов и UX дизайн»
+
+## Participation
+
+- [Thinkmill keystatic](https://github.com/Thinkmill/keystatic)<br>
+  https://github.com/Thinkmill/keystatic/pull/1542 — Add support for Astro 6
