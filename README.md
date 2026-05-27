@@ -20,5 +20,5 @@
 
 ## Participation
 
-- [Thinkmill keystatic](https://github.com/Thinkmill/keystatic)<br>
+- [Keystatic](https://github.com/Thinkmill/keystatic): First-class git-based CMS<br>
   https://github.com/Thinkmill/keystatic/pull/1542 — Add support for Astro 6
