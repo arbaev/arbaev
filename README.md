@@ -7,10 +7,8 @@
 
 ## My projects
 
-- [DXF Render Engine](https://github.com/arbaev/dxf-kit/tree/main/packages/dxf-render)<br>
-  Parse and render AutoCAD DXF files in the browser — framework-agnostic engine
-- [DXF Vuer](https://github.com/arbaev/dxf-vuer)<br>
-  Vue 3 component for viewing DXF files in the browser
+- [DXF Render Kit](https://github.com/arbaev/dxf-kit)<br>
+  Parse and render AutoCAD DXF files in the browser — framework-agnostic engine (dxf-render) with drop-in Vue, React and Web Components viewers.
 - [Commit Date Changer (github)](https://github.com/arbaev/commit-date-changer)<br>
   An interactive CLI tool for safely changing Git commit dates with built-in validation and multi-language support.
 - [Regions and cities of Russia database (json)](https://github.com/arbaev/russia-cities)<br>
