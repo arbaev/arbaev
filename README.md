@@ -9,8 +9,10 @@
 
 - [DXF Render Kit](https://github.com/arbaev/dxf-kit)<br>
   Parse and render AutoCAD DXF files in the browser — framework-agnostic engine (dxf-render) with drop-in Vue, React and Web Components viewers.
-- [Commit Date Changer (github)](https://github.com/arbaev/commit-date-changer)<br>
+- [Commit Date Changer](https://github.com/arbaev/commit-date-changer)<br>
   An interactive CLI tool for safely changing Git commit dates with built-in validation and multi-language support.
+- [Crux](https://github.com/arbaev/crux)<br>
+  Crux is an offline-first builder for climbing-wall routes: paint holds by role on a fixed board, save them locally and share via a link — no backend required. Online, offline and mobile app.
 - [Regions and cities of Russia database (json)](https://github.com/arbaev/russia-cities)<br>
   База данных всех регионов и городов со склонениями названий и другой информацией
 - [UX101](https://github.com/arbaev/ux101)<br>
